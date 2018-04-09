@@ -1,0 +1,926 @@
+{
+  "settings": {
+    "name": "MarongELC",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#7c0503"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 26,
+    "versionPublish": "4.7.0",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#000000"
+          },
+          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-365x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9365b8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kinderkid-1400x2488.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "text": "<p><b>LEARN</b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>GROW</b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>NURTURE</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "100px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-g",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Philosophy",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#000000"
+          },
+          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-365x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#7c0503",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "32px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Philosophy Marong ELC",
+          "text": "<p>Our Philosophy is based on our belief that early childhood is a very special time in a child’s life. </p><p>We strive to provide a warm, secure inclusive environment where children are able to develop independence, resilience and high self-esteem and their skills, abilities and culture are respected. </p><p>We value and encourage contributions to our program from parents, staff, children and the community. Parents are their children’s first and most influential teachers. By working together in partnership we can achieve the best outcomes for each child and their family. </p><p>We are a community kindergarten with a strong focus on the use of both natural and open-ended materials. We value outdoor play for the influence it has on children’s overall skill development, wellbeing and their connection to nature. We are committed to spending time in the natural outdoor environment beyond the kindergarten because we know the positive impact it has on children now and throughout their lives. </p><p>Our programs are based on the Early Years Framework Belonging, Being and Becoming, which caters to all aspects of children’s development. We recognise that the Practice Principles are key to achieving the best outcomes for each child. Programs are planned according to the needs and interests of the children and ongoing planning, evaluation and reflection are a continuous cycle. </p><p>We seek to empower children through the use of their thoughts and ideas in the program and we incorporate their voice in all documentation. </p><p>We are early childhood professionals who endeavour to improve our practice and knowledge through ongoing reflection of our day to day program and professional development programs. This is reflected in our philosophy that both educators and children are lifelong learners.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-9"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-g",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Staff",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#1abc9c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#1abc9c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#000000"
+          },
+          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-365x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-c"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-g",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "Newsletters",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#000000"
+          },
+          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-365x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-g",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Photos",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#000000"
+          },
+          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-365x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "noGutter": false,
+            "showText": false,
+            "showBullets": false,
+            "bgColor": "#1abc9c",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/frontentrance-600x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frontentrance-600x448-600x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/marong3-600x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marong3-600x448-600x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/internal-589x439.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/internal-589x439-589x439.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/marong2-600x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marong2-600x448-600x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/newyard4-600x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/newyard4-600x448-600x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/instantturf3-600x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/instantturf3-600x448-600x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/yard-588x442.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yard-588x442-588x442.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/marong6-600x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marong6-600x448-600x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/marong7-600x448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marong7-600x448-600x448.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/aboriginalrespect-2000x2888.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aboriginalrespect-2000x2888-800x1155.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-i"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "FAQs",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#1abc9c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#1abc9c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#000000"
+          },
+          "items": "          <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>",
+          "buttons": "   <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">PHILOSOPHY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">STAFF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">NEWSLETTERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">PHOTOS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">FAQs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-365x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#28324e",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "32px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2c82c9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Marong Preschool FAQs\n",
+          "text": "<p>We really value…….\n</p><p>Independence, resilience and risk taking for children. We spend lots of time outdoors and outside of the kindergarten environment. We have strong ties to the school and make use of their yard every week.\n</p><p><br></p><p>Educators strive to ……..\n</p><p>Develop strong relationships with families, children and the wider community. Ensure all children’s needs and interests are catered for.</p><p><br></p><p>\n</p><p>Our Educational Program is shared with families in many ways, Such as ........</p><p>o Emailed/ printed reflection every week\n</p><p>o Newsletters\n</p><p><br></p><p>Our program, including routines, is organised in ways that maximise opportunities for each child’s learning. A normal day at our preschool usually runs like this……\n</p><p>Most of the days children can choose to be indoors across the centre i.e. both rooms are open to all children while they are in operation. We have a progressive fruit snack in the morning, lunch and afternoon snack (long days )are eaten as a group.</p><p><br></p><p>\n</p><p>The expertise of families is recognised and they share in decision making about their child’s learning and wellbeing, this is occurs in the following ways .........</p><p>o Developing goals for each child in consultation with families\n</p><p>o Inclusion of parents, ideas, skills and resources with the program\n</p><p><br></p><p>Each child’s learning and development is assessed as part of an ongoing cycle of planning, documenting and evaluation, we share this with families and seek their involvement by .........</p><p>o Portfolios\n</p><p>o Conversations, notes, emails regarding what their child is interested in and what they might like to do next\n</p><p><br></p><p>We build relationships and engage with the local community in the following ways .........</p><p>o We encourage families and the community to be involved by coming into our centre, through incursions, visitors and volunteers\n</p><p>o We make use of the school yard every week\n</p><p>o Families have opportunity to be involved in our service by coming into our centre during sessions, working bees and special events such as Mother’s Day and Father’s Night..</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/melc-logo-hoz-265x93.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>10 Leslie Street<br>Marong, Victoria<br>3515",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: marong.elc@kindergarten.vic.gov.au<br>\nPhone:&nbsp;<br>03 5435 2394<br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-k"
+        }
+      ]
+    }
+  }
+}
